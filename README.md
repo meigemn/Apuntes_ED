@@ -641,7 +641,7 @@ programación orientada a objetos.
 
 ## Criterios a la hora de elegir un lenguaje de de programación para el desarrollo software
 
-* `Adecuación al Problema*  El lenguaje debe ser apropiado para la naturaleza del problema a resolver. Algunos lenguajes son mejores para aplicaciones web, mientras que otros son más adecuados para el
+* `Adecuación al Problema`  El lenguaje debe ser apropiado para la naturaleza del problema a resolver. Algunos lenguajes son mejores para aplicaciones web, mientras que otros son más adecuados para el
 procesamiento de datos o la programación de sistemas.
 
 * `Experiencia del Equipo` Si el equipo de desarrollo tiene experiencia en un lenguaje en particular, puede
