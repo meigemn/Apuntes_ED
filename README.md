@@ -76,7 +76,7 @@ computadora.`
 de la computadora y se encuentra en un estado activo, listo para ser ejecutado. Es la forma en
 que el `software se ejecuta y realiza sus funciones` en la computadora.
 
-### Ciclo de vida del sofware
+### 3. Ciclo de vida del sofware
 
 
 El ciclo de vida del software es el proceso que abarca `desde la concepción y desarrollo inicial`
@@ -142,7 +142,7 @@ requisitos son desconocidos o evolucionan durante el desarrollo.
 
 ---
  
-### Verificación / validación
+### 4. Verificación / validación
 
 `Verificación`
 *La verificación se centra en evaluar si el software está siendo desarrollado correctamente, es
@@ -163,7 +163,7 @@ y si es útil y efectivo en el entorno de uso previsto.*
 
 ---
 
-### Modelo de desarrollo mediante creación de prototipos.
+### 5. Modelo de desarrollo mediante creación de prototipos.
 
 Es un enfoque iterativo que se utiliza cuando los requisitos del proyecto no están completamente definidos
 o cuando es necesario obtener retroalimentación temprana del cliente para refinar los requisitos. A
@@ -209,7 +209,7 @@ producto final.
 
 ---
 
-### Modelo espiral en desarrollo orientado a objetos.
+### 6. Modelo espiral en desarrollo orientado a objetos.
 
 * `Determinación de Objetivos` Al inicio del proceso, se establecen los objetivos y se definen las
 necesidades del sistema.
@@ -241,7 +241,7 @@ la implementación final. El mantenimiento continuo se realiza según sea necesa
 > software de alta calidad en etapas sucesivas.
 
 ---
- ### Cuatro principios que rigen el desarrollo ágil expresados en el maninifiesto Ágil
+ ### 7. Cuatro principios que rigen el desarrollo ágil expresados en el maninifiesto Ágil
  
 1. `Individuos e interacciones sobre procesos y herramientas` Se enfatiza la importancia de las personas y
 su colaboración en el proceso de desarrollo. Es decir, poner a las personas en el centro y priorizar la
@@ -261,7 +261,7 @@ rígidos, se debe responder de manera flexible a los cambios a lo largo del proy
 
 ---
 
-### Historia de usuario
+### 8. Historia de usuario
 Es una `representación de un requisito` escrito en una o dos frases
 utilizando el lenguaje común del usuario.
 Son **utilizadas en las metodologías de desarrollo ágiles** para la especificación de requisitos (acompañadas de
@@ -294,7 +294,7 @@ software.
 
 ---
 
-### Ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban.
+### 9. Ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban.
 
 `Ventajas`
 * Accesibilidad: Puedes acceder a la pizarra digital desde cualquier ubicación con conexión a internet, lo
@@ -332,7 +332,7 @@ tradicionales puede ser más tangible y satisfactoria, lo que podría perderse c
 
 ---
 
-### KANBAN y sus diferencias frente a SCRUM.
+### 10. KANBAN y sus diferencias frente a SCRUM.
 
 
 `Kanban`
@@ -468,7 +468,7 @@ por la calidad del trabajo.
 [Requisitos para usar scrum](https://proyectosagiles.org/requisitos-de-scrum/)
 
 ---
-## Programación Extrema
+## 11. Programación Extrema
 `Valores de la Programación Extrema`
 
 1. Comunicación: Promueve la comunicación constante entre el equipo y los stakeholders.
@@ -496,9 +496,9 @@ involucra al equipo y al cliente en la estimación y priorización de tareas.
 
 ---
 
-# Lenguajes de programación
+# 12. Lenguajes de programación
 
-### Diferencias entre lenguajes declarativos e imperativos.
+## Diferencias entre lenguajes declarativos e imperativos.
  `Declarativos`
  Enfoque: Los lenguajes declarativos se centran en "qué" se debe lograr y describen el resultado
 deseado, pero no especifican cómo lograrlo.
