@@ -115,7 +115,7 @@ antes de pasar a la siguiente, y los cambios en etapas anteriores pueden ser cos
 > puede carecer de flexibilidad para adaptarse a cambios en los requisitos del cliente.
 
 
-*Ventajas del modelo en cascada:
+* Ventajas del modelo en cascada:
 
 `Estructura clara` Las **fases están bien definidas** y tienen objetivos específicos, lo que facilita el
 seguimiento y control del proyecto.
